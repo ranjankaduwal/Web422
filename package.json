@@ -15,7 +15,8 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ranjan Kaduwal",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {}
 }
